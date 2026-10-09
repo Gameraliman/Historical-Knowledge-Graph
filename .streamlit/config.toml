@@ -1,0 +1,12 @@
+[theme]
+primaryColor = "#018bff"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f5f7fa"
+textColor = "#1f2937"
+font = "sans serif"
+
+[server]
+maxMessageSize = 400
+
+[browser]
+gatherUsageStats = false

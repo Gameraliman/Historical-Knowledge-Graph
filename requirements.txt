@@ -1,0 +1,8 @@
+streamlit>=1.40
+neo4j>=5.20
+pyvis>=0.3.2
+pandas>=2.0
+plotly>=5.20
+python-dotenv>=1.0
+requests>=2.31
+groq>=0.11

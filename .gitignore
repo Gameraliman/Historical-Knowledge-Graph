@@ -1,0 +1,16 @@
+.env
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+.vscode/
+# داده‌های کاربران و درخواست‌ها (محلی)
+data/users.json
+data/mailbox.json
+data/categories.json
+*.log
+data/extractions/
+data/er_cache.json
+data/er_merge_log.jsonl
